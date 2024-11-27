@@ -1,0 +1,14 @@
+{
+  "name": "minihooks",
+  "version": "1.0.0",
+  "description": "tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "publishConfig": {
+    "@harrisonwang:registry": "https://npm.pkg.github.com"
+  },
+  "license": "ISC"
+}
