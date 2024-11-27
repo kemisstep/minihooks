@@ -1,6 +1,6 @@
 {
-  "name": "minihooks",
-  "version": "1.0.0",
+  "name": "@ministep/minihooks",
+  "version": "1.0.2",
   "description": "tools",
   "main": "index.js",
   "scripts": {
