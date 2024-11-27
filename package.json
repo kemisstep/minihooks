@@ -1,5 +1,5 @@
 {
-  "name": "@ministep/minihooks",
+  "name": "@kemisstep/minihooks",
   "version": "1.0.6",
   "description": "A mini hooks library",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/kemisstep/minihooks.git"
   },
-  "author": "ministep",
+  "author": "kemisstep",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kemisstep/minihooks/issues"
