@@ -1,5 +1,5 @@
 {
-  "name": "@kemisstep/minihooksPro",
+  "name": "@kemisstep/minihooks",
   "version": "1.0.6",
   "description": "A mini hooks library",
   "main": "dist/index.js",
