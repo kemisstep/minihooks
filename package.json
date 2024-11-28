@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/kemisstep/minihooks#readme",
   "publishConfig": {
-    "@harrisonwang:registry": "https://npm.pkg.github.com"
+    "@kemisstep:registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "typescript": "^5.7.2"
